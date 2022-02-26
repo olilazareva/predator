@@ -105,7 +105,8 @@ main {
 }*/
 
 h1 {
-  font-size: 4.44em;
+  position: relative;
+  font-size: 330%;
   background: -webkit-radial-gradient(#E21924, #E2192400);
               -webkit-background-clip: text;
               -webkit-text-fill-color: #E2192400;
