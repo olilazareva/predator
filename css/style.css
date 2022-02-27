@@ -98,11 +98,12 @@ main {
   color: #fff;
 }
 
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 
-
-/*.collapse {
-  height:80px;
-}*/
 
 h1 {
   position: relative;
